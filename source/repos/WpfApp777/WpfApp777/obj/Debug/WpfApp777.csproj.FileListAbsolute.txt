@@ -12,3 +12,4 @@ C:\Users\User\source\repos\WpfApp777\WpfApp777\obj\Debug\WpfApp777.csproj.Genera
 C:\Users\User\source\repos\WpfApp777\WpfApp777\obj\Debug\WpfApp777.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\WpfApp777\WpfApp777\obj\Debug\WpfApp777.exe
 C:\Users\User\source\repos\WpfApp777\WpfApp777\obj\Debug\WpfApp777.pdb
+C:\Users\User\source\repos\WpfApp777\WpfApp777\obj\Debug\WpfApp777.csprojAssemblyReference.cache
